@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react';
 
-
 function Hooks() {
     const [counter, setCounter] = useState(0);
     const [name, setName] = useState('');
